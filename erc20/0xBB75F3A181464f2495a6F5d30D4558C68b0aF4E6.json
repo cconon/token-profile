@@ -1,0 +1,18 @@
+{
+  "symbol": "USDT-TEST",
+  "address": "0xBB75F3A181464f2495a6F5d30D4558C68b0aF4E6",
+  "overview":{
+    "en": "USDT-TEST is a platform for Ultra-election over-selection based on blockchain and smart contract technology to incubate the sharing economy and generate quantitative value for users' network behavior and idle resources.",
+    "zh": "USDT-TEST 是 Ultra-election 超选基于区块链及智能合约技术，孵化共享经济，让用户网络行为及闲置资源产生量化价值的平台通证。"
+  },
+  "email": "service@chaoxuan.io",
+  "website": "http://www.chaoxuan.io",
+  "whitepaper": "http://www.chaoxuan.io/doc/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-06-23",
+  "initial_price":{
+    "ETH":"0.0000001 ETH",
+    "USD":"0.01 USD",
+    "BTC":"0.00000000001 BTC"
+  }
+}
